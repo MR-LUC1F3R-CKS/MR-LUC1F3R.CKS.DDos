@@ -4,7 +4,7 @@ hi i am Mr-Lucifer. this tool's only for abduction purposes cyber king squad .wh
 
 Update and strong tools Cks
 
-# Mr-Lucifer-CKS.DDOS
+# MR-LUC1F3R.CKS.DDOS
 
 $apt update && apt upgrade
 
@@ -18,11 +18,11 @@ $apt install figlet
 
 $git clone https://github.com/Mr-Lucifehttps://github.com/Mr-Lucifer-CKS/MR-LUC1F3R.CKS.DDosv
 
-$cd Mr-Lucifer-CKS.DDos
+$cd MR-LUC1F3R.CKS.DDos
 
 Run this command
 
-$ python2 Mr-Lucifer-CKS.DDos.py
+$ python2 MR-LUC1F3R.CKS.DDos.py
 
 Set wabsite IP
 
