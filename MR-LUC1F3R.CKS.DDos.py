@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet CKS DDos")
 print
-print "Author   : Mr-Lucifer"
+print "Author   : MR-LUC1F3R"
 print "You Tube : https://www.youtube.com/Cyber.king.Squad"
 print "team.CKS : white-hat-Hackers"
 print "Facebook : https://www.facebook.com/cyber king squad"
