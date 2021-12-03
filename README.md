@@ -1,10 +1,10 @@
 
 
-hi i am Mr-Lucifer. this tool's only for abduction purposes cyber king squad .white hat hackers team
+hi i am MR-LUC1F3R. this tool's only for abduction purposes cyber king squad .white hat hackers team
 
 Update and strong tools Cks
 
-# MR-LUC1F3R.CKS.DDOS
+# MR-LUC1F3R.DDos
 
 $apt update && apt upgrade
 
@@ -16,7 +16,7 @@ $pip2 install requests
 
 $apt install figlet
 
-$git clone https://github.com/Mr-Lucifehttps://github.com/Mr-Lucifer-CKS/MR-LUC1F3R.CKS.DDos
+$git clone https://github.com/Mr-Lucifer-CKS/MR-LUC1F3R.CKS.DDos
 
 $cd MR-LUC1F3R.CKS.DDos
 
