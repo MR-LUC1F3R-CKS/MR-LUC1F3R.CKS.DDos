@@ -16,7 +16,7 @@ $pip2 install requests
 
 $apt install figlet
 
-$git clone https://github.com/Mr-Lucifer-CKS/MR-LUC1F3R.CKS.DDos
+$git clone https://github.com/MR-LUC1F3R/MR-LUC1F3R.DDos
 
 $cd MR-LUC1F3R.CKS.DDos
 
