@@ -1,6 +1,6 @@
 
 
-hi i am MR-LUC1F3R. this tool's only for abduction purposes cyber king squad .white hat hackers team
+hi i am MR-LUC1F3R. this tool's only for aducation purposes cyber king squad .white hat hackers team
 
 Update and strong tools Cks
 
